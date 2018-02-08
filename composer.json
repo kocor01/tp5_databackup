@@ -1,0 +1,14 @@
+{
+    "name": "kocor/tp5-databackup",
+    "description": "THINKPHP5",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "kocor",
+            "email": "502117269@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
